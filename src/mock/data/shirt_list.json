@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Shirt 1",
+        "imageUrl": "https://i.pinimg.com/564x/ec/47/8d/ec478d139835aa889b82bf721328dc44.jpg",
+        "price": "1,000",
+        "amount": 0
+    },
+    {
+        "name": "Shirt 2",
+        "imageUrl": "https://i.pinimg.com/564x/ec/47/8d/ec478d139835aa889b82bf721328dc44.jpg",
+        "price": "2,000",
+        "amount": 0
+    },
+    {
+        "name": "Shirt 3",
+        "imageUrl": "https://i.pinimg.com/564x/ec/47/8d/ec478d139835aa889b82bf721328dc44.jpg",
+        "price": "3,000",
+        "amount": 0
+    },
+    {
+        "name": "Shirt 4",
+        "imageUrl": "https://i.pinimg.com/564x/ec/47/8d/ec478d139835aa889b82bf721328dc44.jpg",
+        "price": "4,000",
+        "amount": 0
+    },
+    {
+        "name": "Shirt 5",
+        "imageUrl": "https://i.pinimg.com/564x/ec/47/8d/ec478d139835aa889b82bf721328dc44.jpg",
+        "price": "5,000",
+        "amount": 0
+    },
+    {
+        "name": "Shirt 6",
+        "imageUrl": "https://i.pinimg.com/564x/ec/47/8d/ec478d139835aa889b82bf721328dc44.jpg",
+        "price": "6,000",
+        "amount": 0
+    },
+    {
+        "name": "Shirt 7",
+        "imageUrl": "https://i.pinimg.com/564x/ec/47/8d/ec478d139835aa889b82bf721328dc44.jpg",
+        "price": "7,000",
+        "amount": 0
+    },
+    {
+        "name": "Shirt 8",
+        "imageUrl": "https://i.pinimg.com/564x/ec/47/8d/ec478d139835aa889b82bf721328dc44.jpg",
+        "price": "8,000",
+        "amount": 0
+    },
+    {
+        "name": "Shirt 9",
+        "imageUrl": "https://i.pinimg.com/564x/ec/47/8d/ec478d139835aa889b82bf721328dc44.jpg",
+        "price": "9,000",
+        "amount": 0
+    }
+]
